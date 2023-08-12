@@ -1,0 +1,79 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Zayu",
+      "number": "9087654356",
+      "email": "myzayu126@gmail.com",
+      "password": "8976",
+      "active": true
+    },
+    {
+      "name": "Afsana",
+      "number": "9735897690",
+      "email": "afsy123@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Yasmin",
+      "number": "9876543345",
+      "email": "yas123@gmail.com",
+      "password": "890",
+      "id": 3
+    },
+    {
+      "name": "Azad",
+      "number": "9087656678",
+      "email": "Azad123@gmail.com",
+      "password": "9087",
+      "id": 4
+    },
+    {
+      "studentid": "5",
+      "name": "sattar",
+      "number": "9087656678",
+      "email": "sattar123@gmail.com",
+      "password": "56erty",
+      "active": true,
+      "id": 5
+    },
+    {
+      "name": "Zubaida",
+      "number": "7865432345",
+      "email": "zub123@gmail.com",
+      "password": "7900",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Huzaifa",
+      "number": "8976434689",
+      "email": "Huz103@gmail.com",
+      "password": "098ertyui"
+    },
+    {
+      "name": "Annu",
+      "number": "97685433",
+      "email": "annu45@gmail.com",
+      "password": "098trfb",
+      "id": 8
+    },
+    {
+      "name": "Sannu",
+      "number": "9986442236",
+      "email": "sannu123@gmail.com",
+      "password": "097b",
+      "active": true,
+      "id": 9
+    },
+    {
+      "name": "Mad",
+      "number": "9087654456",
+      "email": "mad123@gmail.com",
+      "password": "098hj",
+      "active": false,
+      "id": 10
+    }
+  ]
+}
